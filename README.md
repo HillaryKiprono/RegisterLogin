@@ -16,7 +16,7 @@ Feel free to contribute in any way to the project from typos in docs to code rev
 ## Demo
 
 <p float="left">
-  <img src="screenshots/login.jpg" width=250/>
+  <img src="login.jpg" width=250/>
   <img src="screenshots/Screenshot_20201018-190502.png" width=250/>
   <img src="screenshots/Screenshot_20201024-182600.png" width=250/>
   <img src="screenshots/Screenshot_20201024-182915.png" width=250/>
